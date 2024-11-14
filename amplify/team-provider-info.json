@@ -19,5 +19,26 @@
         }
       }
     }
+  },
+  "uat": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-reactjsdeployment-uat-2b5b9-authRole",
+      "UnauthRoleArn": "arn:aws:iam::528757823400:role/amplify-reactjsdeployment-uat-2b5b9-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::528757823400:role/amplify-reactjsdeployment-uat-2b5b9-authRole",
+      "Region": "ap-southeast-2",
+      "DeploymentBucketName": "amplify-reactjsdeployment-uat-2b5b9-deployment",
+      "UnauthRoleName": "amplify-reactjsdeployment-uat-2b5b9-unauthRole",
+      "StackName": "amplify-reactjsdeployment-uat-2b5b9",
+      "StackId": "arn:aws:cloudformation:ap-southeast-2:528757823400:stack/amplify-reactjsdeployment-uat-2b5b9/7c2b3120-a255-11ef-a804-0625201dd82b",
+      "AmplifyAppId": "dvaaph5n8g3vr"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "dvaaph5n8g3vr",
+          "type": "manual"
+        }
+      }
+    }
   }
 }
